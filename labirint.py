@@ -81,7 +81,6 @@ monster = Enemy('monster.jpg', 50, 50, 600, 40, 2)
 monsters = sprite.Group()
 monsters.add(monster)
 
-
 walls.draw(window)
 
 finish = False
